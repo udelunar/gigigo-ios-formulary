@@ -2,7 +2,8 @@
   "Mac" : [
     {
       "name" : "Quick",
-      "hash" : "20073b1eb49d9a3ee916f211fc9d404c1095c523e4434489cbdef1cff02b80ce"
+      "hash" : "8e75e7221e1097c751c75c365f5dac6def5a8d803b103fee90551985756d468f",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
     }
   ],
   "watchOS" : [
@@ -11,14 +12,16 @@
   "tvOS" : [
     {
       "name" : "Quick",
-      "hash" : "3d8962abc2029be5d5745d14ece4083cdffa498206d53f30dcc16e841e1032a7"
+      "hash" : "c7b1b05b49023f3b4bdd8fa865bf86e4264d26566d2b6bd70d978da29d5b3c9b",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
     }
   ],
-  "commitish" : "v1.3.0",
+  "commitish" : "v2.2.0",
   "iOS" : [
     {
       "name" : "Quick",
-      "hash" : "4e1637e9b86a209839d69753806fef713572fffc17bb9d78fc728dce3094aa9e"
+      "hash" : "03575173f31fd65a8ad308f572b38bbc18388d87d84b2f0a4f227d2fe1422fd1",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
     }
   ]
 }
